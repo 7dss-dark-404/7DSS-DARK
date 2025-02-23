@@ -1,7 +1,7 @@
 # 7DSS-DARK
 $pkg update 
 $pkg upgrade 
-$pkg install epeak
+$pkg install es
 $pkg install mechanize
 $pkg install bs4
 $git clone https://github.com/7dss-dark-404/7DSS-DARK.git
